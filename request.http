@@ -1,0 +1,75 @@
+POST /build/doverifiedupload HTTP/2
+Host: www.roblox.com
+Cookie: RBXCOOKIE
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:106.0) Gecko/20100101 Firefox/106.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: multipart/form-data; boundary=---------------------------17519822504325534112717441911
+Content-Length: 1872
+Origin: https://www.roblox.com
+Referer: https://www.roblox.com/build/verifyupload
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Te: trailers
+
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="__RequestVerificationToken"
+
+REQUESTTOKEN
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="assetTypeId"
+
+34
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="isOggUploadEnabled"
+
+True
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="groupId"
+
+
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="onVerificationPage"
+
+True
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="captchaEnabled"
+
+False
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="captchaToken"
+
+
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="captchaProvider"
+
+
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="assetImageId"
+
+ASSETID
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="expectedCost"
+
+
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="name"
+
+test
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="assetTypeId"
+
+34
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="description"
+
+
+-----------------------------17519822504325534112717441911
+Content-Disposition: form-data; name="targetPlaceId"
+
+PLACE ID
+-----------------------------17519822504325534112717441911--
